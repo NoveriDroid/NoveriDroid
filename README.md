@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<img src="https://i.pinimg.com/originals/b8/a7/cf/b8a7cfdf05a6114c20a1c313b8b637cc.gif" alt="GIF" width="320" height="240"/>
+</p>
+
 </p>
 <p align="center">
 <a href="#"><img title="X BOT" src="https://img.shields.io/badge/NoveriDroid-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
