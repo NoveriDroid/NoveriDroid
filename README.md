@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://github.com/adimas999/followers"><img title="Followers" src="https://img.shields.io/github/followers/adimas999?color=red&style=flat-square"></a>
-<a href="https://github.com/adimas999/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/adimas999/BotV1?color=blue&style=flat-square"></a>
-<a href="https://github.com/adimas999/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/adimas999/BotV1?color=red&style=flat-square"></a>
-<a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/adimas999/BotV1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/adimas999/followers"><img title="Followers" src="https://img.shields.io/github/followers/NoveriDroid?color=red&style=flat-square"></a>
+<a href="https://github.com/adimas999/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NoveriDroid/BotV1?color=blue&style=flat-square"></a>
+<a href="https://github.com/adimas999/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NoveriDroid/BotV1?color=red&style=flat-square"></a>
+<a href="https://github.com/adimas999/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NoveriDroid/BotV1?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align='center'>
@@ -46,8 +46,8 @@ Contact Me
 - [Telegram](https://t.me/RadityaMoviesHD)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luridarmawan&show_icons=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luridarmawan&layout=compact&hide=html,css" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoveriDroid&show_icons=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoveriDroid&layout=compact&hide=html,css" width="45%">
 </p>
 
 ![Thropy](https://github-profile-trophy.vercel.app/?username=NoveriDroid)
